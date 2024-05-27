@@ -72,6 +72,7 @@ ul{
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    margin-bottom: 48px;
 }
 
 .content h2{
@@ -161,6 +162,7 @@ ul{
     color:#F9FAF8;
     display: flex;
     padding: 32px;
+    margin: 24px;
     width: 70%;
     align-items: center;
     justify-content: space-around;
